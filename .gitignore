@@ -1,0 +1,4 @@
+raw/
+.venv/
+.idea/
+.DS_Store
